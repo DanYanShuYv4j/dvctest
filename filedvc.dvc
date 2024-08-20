@@ -1,0 +1,6 @@
+outs:
+- md5: b5e93e96038cdd8cf7643bf6ad64eced.dir
+  size: 610498
+  nfiles: 1
+  hash: md5
+  path: filedvc

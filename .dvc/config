@@ -1,4 +1,7 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = http://10.215.142.99:9000/minio/dvctest/shiwu
+    url = s3://shiwudvc
+    endpointurl = http://10.215.142.99:9000
+    access_key_id = admin
+    secret_access_key = ecidi@2019+ecidi@2019

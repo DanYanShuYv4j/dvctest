@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = http://10.215.142.99:9000/minio/dvctest/shiwu
